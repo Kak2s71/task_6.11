@@ -94,6 +94,3 @@ a {
 .color {
     background-color: bisque;
 }
-article:nth-child(1n+1) {
-    content: "NEW!";
-}
